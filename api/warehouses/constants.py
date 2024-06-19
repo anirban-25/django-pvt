@@ -1,0 +1,42 @@
+SPOJIT_API_URL = "https://deliver-me.spojit.com"
+SPOJIT_TOKEN = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2OTUwNjgwODksImV4cCI6NDg1MDc0MTY4OSwidXNlcklkIjoyLCJpZCI6MiwiZGF0ZSI6IjE2OTUwNjgwODkifQ.hv75t_7--yQ3srhDOwmzZWSujL422biCAVv2CTEkVOxAqqiMlljfUfHiWOssrumLM91rpaZiXQCfaBLY60RcTuchVf__bfBtcQ61WmZD_toyRin_S0t7KCwCsIaY2cFv6x3Q0ew59HzEPi40GC9vWvHvkH-WJ0Iy0AIqIKi3Bdj1_f5Sli7i8pJpLz7FKXbeKLUt09It0Mommzd9694pDBrU5S6_azyaEjHaBCm6EH1jgLie7f3byUmMtR2mBQi9Aa_0XJithdyOqthBhGgiZJavmERkGmntm8Ng-RPxeHSbeUKAJrEEN8Gow_DLLSZ8h7wJk39RGxFWIIuoErUn3n9BcdqqzOyBDAfVkhOouMejs-9TLZrgJingxvu9pCrPbX13GUxIQ6YHEIpWfmpODueYUWQylYD3u-5aoqLmJ4nK_erp8G1LliMlNh2A00Ft7jbiHGiy-RvNt-wApHfrvKtalE_n1I58aqFczUJHQUhCgNd1mDUqTKqDbJTJzextrE0s9X6XQePG4pXGleO505GhAtnczpfO020_xID7EbXy0CxtYHTq_rMuxSeHJSX2C1agkRzTvDiyMatt1rd826POVOuSWeLj2Aimz4tKMDWYWINgO0wquFT14meZjHXfkaNLLg27xK63cR_HG3Siz6cr-uvSSYDSaGZoysFxRWs"
+SPOJIT_WAREHOUSE_MAPPINGS = {
+    "MCPHEE_SYD_MD1": "b93273fc-565d-11ee-9ae1-2ef63d804c7f",
+    "MCPHEE_BRIS_MD2": "b93273fc-565d-11ee-9ae1-2ef63d804c7f",
+    "MCPHEE_HAZ_MD3": "b93273fc-565d-11ee-9ae1-2ef63d804c7f",
+    "CARGO_WISE_NORTH_QLD_NQ1": "7d47fd7a-565e-11ee-9b66-2ef63d804c7f",
+    "CARGO_WISE_MEL_LG1": "7d47fd7a-565e-11ee-9b66-2ef63d804c7f",
+    "CARGO_WISE_MEL_AFS": "7d47fd7a-565e-11ee-9b66-2ef63d804c7f",
+}
+
+CARRIER_MAPPING = {
+    "allied": "DMECHP",
+    "sadleirs": "DMECHP",
+    "sendle": "DMECHP",
+    "camerons": "DMECHP",
+    "northline": "DMECHP",
+    "century": "DMECHP",
+    "tnt": "DMECHP",
+    "cnq freight services": "DMECHP",
+    "atc": "DMECHP",
+    "symons clark": "DMECHP",
+    "state transport": "DMECHP",
+    "deliver-me": "DMECHP",
+    "dxt": "DMECHP",
+    "cochranes": "DMECHP",
+    "hunter": "DMECHP",
+    "pickup": "DMECHP",
+    "cti logistics": "DMECHP",
+    "action couriers": "DMECHP",
+    "sct logistics": "DMECHP",
+    "team global express": "DMECHP",
+    "blacks": "AFSCHP",
+    "blanner": "AFSCHP",
+    "bluestar": "AFSCHP",
+    "hi-trans": "AFSCHP",
+    "vfs": "AFSCHP",
+    "followmont": "AFSCHP",
+    "startrack": "AFSCHP",
+    "toll": "AFSCHP",
+    "toll carton__afs": "AFSCHP",
+}
